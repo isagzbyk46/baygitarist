@@ -21,7 +21,7 @@ tg_6 : "» İndirme iptal edildi."
 tg_7 : "» İndirme iptal eden: {0}"
 tg_8: "İndirme durdurulamadı."
 tg_9: "Devam eden indirme görevi alınamadı..."
-Çağrı Mesajları:
+# Çağrı Mesajları:
 
 call_1: "» Botun, asistanı sohbetinize davet edebilmesi için <b>bağlantı ile kullanıcı davet etme</b> iznine ihtiyacı var."
 call_2: "<u>{0} asistanı grubunuz/kanalınızda yasaklanmış.</u>\n\n<b>ID :</b> <code>{1}</code>\n<b>İsim :</b> {2}\n<b>Kullanıcı Adı :</b> @{3}\n\nLütfen asistanın yasağını kaldırın ve tekrar deneyin."
@@ -33,7 +33,7 @@ call_7: "» Sıradaki parça indiriliyor.\n\nLütfen bekleyin..."
 call_8: "<b>Aktif bir görüntülü sohbet bulunamadı.</b>\n\nLütfen grubunuzda/kanalınızda görüntülü sohbet başlatın ve tekrar deneyin."
 call_9: "<b>Asistan zaten görüntülü sohbette.</b>\n\nEğer asistan görüntülü sohbette değilse, lütfen <code>/reboot</code> komutunu gönderin ve tekrar oynatmayı deneyin."
 call_10: "<b>Telegram sunucu hatası</b>\n\nTelegram'da bazı içsel sorunlar var, lütfen tekrar oynatmayı deneyin veya grubunuzdaki görüntülü sohbeti yeniden başlatın."
-Yetkilendirme Mesajları:
+# Yetkilendirme Mesajları:
 
 auth_1: "» Grubunuzda en fazla 25 yetkilendirilmiş kullanıcı olabilir."
 auth_2: "» {0} yetkilendirilmiş kullanıcılar listesine eklendi."
@@ -43,14 +43,14 @@ auth_5: "{0} yetkilendirilmiş kullanıcılar listesinde değil."
 auth_6: "» Yetkilendirilmiş kullanıcılar listesi alınıyor..."
 auth_7: "» {0} içindeki yetkilendirilmiş kullanıcılar listesi:\n\n"
 auth_8: "<b>↬ Ekleyen :</b>"
-Önbellek Yenileme:
+# Önbellek Yenileme:
 
 reload_1: "» Yönetici önbelleğini 3 dakikada bir kez yenileyebilirsiniz.\n\nLütfen {0} sonra tekrar deneyin."
 reload_2: "» Yönetici önbelleği başarıyla yenilendi."
 reload_3: "» Yönetici önbelleği yenilenemedi, botun sohbetinizde yönetici olduğundan emin olun."
 reload_4: "» Lütfen bekleyin...\n\n{0} sohbetiniz için yeniden başlatılıyor."
 reload_5: "{0} başarıyla yeniden başlatıldı.\n\nTekrar oynatmaya başlayın..."
-Yönetici Komutları:
+# Yönetici Komutları:
 
 admin_1: "» Yayına devam ettiğinizi hatırlıyor musunuz?"
 admin_2: "➻ Yayın duraklatıldı 🎄\n│ \n└Tarafından: {0} 🥀"
