@@ -1,0 +1,71 @@
+name : 🇹🇷 Türkçe
+
+# Gban veya Ungban Sebebi
+gban_reason : "Bot sadece bir kullanıcı adı ve sebep verildiğinde global yasaklama yapar!"
+ungban_reason : "Daha önce yasaklandınız!\nBot, birisinin yasaklanma sebebiyle kaldırılmasına izin verir!!"
+too_short : "Hahaha!!\nBotu kandırmak için sebep vermeye çalışıyorsan, botun sahibinin aptal olmadığını unutma!!"
+
+# Genel Mesajlar
+general_1 : "» Bir kullanıcının mesajına yanıt verin veya kullanıcı adı/kullanıcı ID'si girin."
+general_2 : "» Sorgunuzu işlerken bir hata oluştu.\n\nHata: <code>{0}</code>"
+general_3 : "Bu sohbet içinde anonim bir yöneticisiniz, lütfen beni kullanmak için normal bir hesaba geri dönün."
+general_4 : "» Video sohbetleri yönetme izniniz yok.\n\nAdmin önbelleğini /reload komutuyla güncelleyin."
+general_5 : "» Bot şu anda video sohbet yayını yapmıyor."
+
+tg_1 : "<u><b>{0} İndirici</b></u>\n\n<b>Dosya Boyutu :</b> {1}\n<b>Tamamlanan :</b> {2}\n<b>Yüzde :</b> {3}%\n\n<b>Hız :</b> {4}/s\n<b>Tahmini Süre :</b> {5}"
+tg_2 : "Başarıyla indirildi, dosya işleniyor...\n\n<b>Geçen Süre :</b> {0}"
+tg_3 : "Telegram'dan medya indirilemedi, lütfen tekrar deneyin..."
+tg_4 : "» İndirme zaten tamamlandı."
+tg_5 : "» İndirme zaten tamamlandı veya iptal edildi."
+tg_6 : "» İndirme iptal edildi."
+tg_7 : "» İndirme iptal eden: {0}"
+tg_8: "İndirme durdurulamadı."
+tg_9: "Devam eden indirme görevi alınamadı..."
+Çağrı Mesajları:
+
+call_1: "» Botun, asistanı sohbetinize davet edebilmesi için <b>bağlantı ile kullanıcı davet etme</b> iznine ihtiyacı var."
+call_2: "<u>{0} asistanı grubunuz/kanalınızda yasaklanmış.</u>\n\n<b>ID :</b> <code>{1}</code>\n<b>İsim :</b> {2}\n<b>Kullanıcı Adı :</b> @{3}\n\nLütfen asistanın yasağını kaldırın ve tekrar deneyin."
+call_3: "{0} asistanını sohbetinize davet edemedim.\n\nSebep : <code>{1}</code>"
+call_4: "Lütfen bekleyin...\n\n{0} asistanı sohbetinize davet ediliyor..."
+call_5: "{0} asistanı başarıyla katıldı.\n\nYayını başlatmaya çalışıyorum..."
+call_6: "» Yayın değiştirilemedi, lütfen parçayı değiştirmek için /skip kullanın."
+call_7: "» Sıradaki parça indiriliyor.\n\nLütfen bekleyin..."
+call_8: "<b>Aktif bir görüntülü sohbet bulunamadı.</b>\n\nLütfen grubunuzda/kanalınızda görüntülü sohbet başlatın ve tekrar deneyin."
+call_9: "<b>Asistan zaten görüntülü sohbette.</b>\n\nEğer asistan görüntülü sohbette değilse, lütfen <code>/reboot</code> komutunu gönderin ve tekrar oynatmayı deneyin."
+call_10: "<b>Telegram sunucu hatası</b>\n\nTelegram'da bazı içsel sorunlar var, lütfen tekrar oynatmayı deneyin veya grubunuzdaki görüntülü sohbeti yeniden başlatın."
+Yetkilendirme Mesajları:
+
+auth_1: "» Grubunuzda en fazla 25 yetkilendirilmiş kullanıcı olabilir."
+auth_2: "» {0} yetkilendirilmiş kullanıcılar listesine eklendi."
+auth_3: "{0} zaten yetkilendirilmiş kullanıcılar listesinde."
+auth_4: "» {0} yetkilendirilmiş kullanıcılar listesinden çıkarıldı."
+auth_5: "{0} yetkilendirilmiş kullanıcılar listesinde değil."
+auth_6: "» Yetkilendirilmiş kullanıcılar listesi alınıyor..."
+auth_7: "» {0} içindeki yetkilendirilmiş kullanıcılar listesi:\n\n"
+auth_8: "<b>↬ Ekleyen :</b>"
+Önbellek Yenileme:
+
+reload_1: "» Yönetici önbelleğini 3 dakikada bir kez yenileyebilirsiniz.\n\nLütfen {0} sonra tekrar deneyin."
+reload_2: "» Yönetici önbelleği başarıyla yenilendi."
+reload_3: "» Yönetici önbelleği yenilenemedi, botun sohbetinizde yönetici olduğundan emin olun."
+reload_4: "» Lütfen bekleyin...\n\n{0} sohbetiniz için yeniden başlatılıyor."
+reload_5: "{0} başarıyla yeniden başlatıldı.\n\nTekrar oynatmaya başlayın..."
+Yönetici Komutları:
+
+admin_1: "» Yayına devam ettiğinizi hatırlıyor musunuz?"
+admin_2: "➻ Yayın duraklatıldı 🎄\n│ \n└Tarafından: {0} 🥀"
+admin_3: "» Yayını duraklattığınızı hatırlıyor musunuz?"
+admin_4: "➻ Yayın devam ettirildi 🎄\n│ \n└Tarafından: {0} 🥀"
+admin_5: "➻ Yayın sonlandırıldı/durduruldu 🎄\n│ \n└Tarafından: {0} 🥀"
+admin_6: "➻ Parça atlandı 🎄\n│ \n└Tarafından: {0} 🥀\n\n<b>» Sırada başka parça yok,</b> {1}, <b>görüntülü sohbetten çıkılıyor.</b>"
+admin_7: "{0} yayınına geçerken hata oluştu."
+admin_8: "» Lütfen döngü oynatma modunu <code>/loop disable</code> ile kapatın ve tekrar deneyin."
+admin_9: "Lütfen belirli sayılar kullanın, örneğin: 1, 2, 4..."
+admin_10: "Belirli bir parçaya atlamak için en az 2 parça sırada olmalıdır.\n\nSırayı kontrol et: /queue"
+admin_11: "» Belirli bir parçaya atlamak için yeterli parça yok.\n\nLütfen 1 ile {0} arasında bir değer seçin."
+admin_12: "» Belirli bir parçaya atlanamadı.\n\nKalan sırayı kontrol edin: /queue"
+admin_13: "» Lütfen yönetici önbelleğini /reload komutu ile yenileyin."
+admin_14: "» Görüntülü sohbetleri yönetme yetkiniz yok.\n\nYönetici önbelleğini yenileyin: /reload"
+admin_15: "» Karışık çalma başarısız oldu.\n\n<b>Sırayı kontrol et:</b> /queue"
+admin_16: "» {0} tarafından sıra karıştırıldı.\n\n<b>Karışık sırayı kontrol et:</b> /queue"
+admin_17: "<b>Örnek Kullanım:</b>\n\n/loop <code>enable</code>/<code>disable</code>\n/loop <code>10</code>/<code>9</code>/<code>8</code>/<code>7</code>"
