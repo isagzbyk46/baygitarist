@@ -5,7 +5,7 @@ from BrandrdXMusic.utils.database import get_lang, is_maintenance
 # Eğer app ve SUPPORT_CHAT tanımlı değilse import edilmeli
 from BrandrdXMusic import app  
 
-SUPPORT_CHAT = "https://t.me/your_support_chat"  # Buraya destek grubunun linkini ekle
+SUPPORT_CHAT = "https://t.me/gitaristmusic12"  # Buraya destek grubunun linkini ekle
 
 
 def language(mystic):
