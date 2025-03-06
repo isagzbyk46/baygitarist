@@ -26,7 +26,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", None))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", None))
 
 # Get this value Telegram id
-OWNER_ID = int(getenv("OWNER_ID", "7230845621"))
+OWNER_ID = int(getenv("OWNER_ID", "7717429408"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -44,7 +44,7 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dertkonagi")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/gitarist40")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/gitaristmusic12")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
