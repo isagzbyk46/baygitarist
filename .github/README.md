@@ -14,7 +14,7 @@
     
 </h3>
 
-<p align="center"><a href="https://graph.org/file/c78005efe2fffe70d3619-c209899967cf6d8bdf.jpg"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandrdXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
@@ -48,7 +48,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/isagzbyk46/baygitarist
+   git clone https://github.com/Learningbots79/LB_Music && cd LB_Music
    ```
 6. **Install Requirements**
    ```bash
@@ -80,11 +80,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/learning_bots"><img src="https://graph.org/file/c78005efe2fffe70d3619-c209899967cf6d8bdf.jpg"></a>
+<a href="https://t.me/learning_bots"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/gitaristmusic12"><img src="https://graph.org/file/c78005efe2fffe70d3619-c209899967cf6d8bdf.jpg"></a>
+<a href="https://t.me/gitaristmusic12"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/isagzbyk46/baygitarist) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/gitaristmusic12)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/BRANDRD_BOT)_</b>
